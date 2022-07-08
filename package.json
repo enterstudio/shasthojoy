@@ -150,7 +150,7 @@
     "jquery": "^2.2.1",
     "js-base64": "^2.1.9",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "pretty-error": "^2.1.1",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
